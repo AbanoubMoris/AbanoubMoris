@@ -2,9 +2,6 @@
 
 <div style="display:flex;justify-content: space-between;flex-wrap: no-wrap">
     
-<div>
-    <img align="right" src="https://tenor.com/view/pc-banging-coding-swe19-programming-gif-19008194.gif" width="300"  height="200"alt="">
-</div>
     
 <div>
 
@@ -29,10 +26,9 @@
 ][Resume]
 
   
-- I'm a fresh graduate student with a bachelor's degree in computer science.🏫🖥️
-- I'm working as a software automation tester.👨‍💻🤖📖
-- I worked as an android developer.
-- I'm working on Data Analysis (EDA) field 📈📊
+- I have graduated with a bachelor's degree in computer science - Ain Shams University.🏫🖥️
+- I'm working as a backend developer.👨‍💻🤖📖
+- I worked with .Net core Web APIs.
 - I worked as a data Engineer 👨‍💻🗃️🗄️
 
 
